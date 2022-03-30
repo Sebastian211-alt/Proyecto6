@@ -15,7 +15,9 @@ public class Clase6 {
 
         int c = 0, num, cp = 0;
 
-        /*num = 6;
+        /*
+        
+        num = 6;
 
         for (int j = 1; j <= 6; j++) {
             if (num % j == 0) {
@@ -27,7 +29,10 @@ public class Clase6 {
             System.out.println("ES PRIMO");
         } else {
             System.out.println("NO ES PRIMO"); 
-        }*/
+        }
+        
+        */
+        
         int cnp = 0;
         System.out.println("Ciclo For");
 
